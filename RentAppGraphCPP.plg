@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TGS_BSR_SD - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Aldi\AppData\Local\Temp\RSP17AE.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/TGS_BSR_SD.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\3.Semester III (2015-2016)\2.Materi Kuliah\4.Struktur Data\Tugas Besar\With Graph\TGS_BSR_SD\source.cpp"
+]
+Creating command line "cl.exe @C:\Users\Aldi\AppData\Local\Temp\RSP17AE.tmp" 
+Creating temporary file "C:\Users\Aldi\AppData\Local\Temp\RSP17BF.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/TGS_BSR_SD.pdb" /debug /machine:I386 /out:"Debug/TGS_BSR_SD.exe" /pdbtype:sept 
+".\Debug\kondisi.obj"
+".\Debug\main.obj"
+".\Debug\source.obj"
+".\Debug\edit_display.obj"
+".\Debug\entri_display.obj"
+".\Debug\footer.obj"
+".\Debug\hapus_display.obj"
+".\Debug\laporan_display.obj"
+".\Debug\pop_up.obj"
+".\Debug\sub_menu_awal_tampilan.obj"
+".\Debug\sub_menu_selected.obj"
+".\Debug\tampilan.obj"
+]
+Creating command line "link.exe @C:\Users\Aldi\AppData\Local\Temp\RSP17BF.tmp"
+<h3>Output Window</h3>
+Compiling...
+source.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+TGS_BSR_SD.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
